@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Die 1 (Background) -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M 29,19 h 30 a 10,10 0 0 1 10,10 v 30 a 10,10 0 0 1 -10,10 h -30 a 10,10 0 0 1 -10,-10 v -30 a 10,10 0 0 1 10,-10 z" />
+    <!-- Die 1 Dots -->
+    <path
+        android:fillColor="#6200EE"
+        android:pathData="M 25,29 a 4,4 0 1 1 8,0 a 4,4 0 1 1 -8,0 M 40,44 a 4,4 0 1 1 8,0 a 4,4 0 1 1 -8,0 M 55,59 a 4,4 0 1 1 8,0 a 4,4 0 1 1 -8,0" />
+
+    <!-- Die 2 Shadow -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M 51,43 h 30 a 10,10 0 0 1 10,10 v 30 a 10,10 0 0 1 -10,10 h -30 a 10,10 0 0 1 -10,-10 v -30 a 10,10 0 0 1 10,-10 z" />
+
+    <!-- Die 2 (Foreground) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 49,39 h 30 a 10,10 0 0 1 10,10 v 30 a 10,10 0 0 1 -10,10 h -30 a 10,10 0 0 1 -10,-10 v -30 a 10,10 0 0 1 10,-10 z" />
+    <!-- Die 2 Dots -->
+    <path
+        android:fillColor="#6200EE"
+        android:pathData="M 45,49 a 4,4 0 1 1 8,0 a 4,4 0 1 1 -8,0 M 45,64 a 4,4 0 1 1 8,0 a 4,4 0 1 1 -8,0 M 45,79 a 4,4 0 1 1 8,0 a 4,4 0 1 1 -8,0 M 75,49 a 4,4 0 1 1 8,0 a 4,4 0 1 1 -8,0 M 75,64 a 4,4 0 1 1 8,0 a 4,4 0 1 1 -8,0 M 75,79 a 4,4 0 1 1 8,0 a 4,4 0 1 1 -8,0" />
+
+</vector>

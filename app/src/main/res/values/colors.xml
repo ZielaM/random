@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#6200EE</color>
+    <color name="primaryVariant">#3700B3</color>
+    <color name="secondary">#03DAC6</color>
+    <color name="secondaryVariant">#018786</color>
+    <color name="background">#FAFAFA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="error">#B00020</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="onSecondary">#000000</color>
+    <color name="onBackground">#000000</color>
+    <color name="onSurface">#000000</color>
+    <color name="onError">#FFFFFF</color>
+    
+    <color name="card_bg">#FFFFFF</color>
+    <color name="card_bg_dark">#1E1E1E</color>
+
+    <!-- Gradients -->
+    <color name="grad_start_1">#4FACFE</color>
+    <color name="grad_end_1">#00F2FE</color>
+    <color name="grad_start_2">#43E97B</color>
+    <color name="grad_end_2">#38F9D7</color>
+    <color name="grad_start_3">#FA709A</color>
+    <color name="grad_end_3">#FEE140</color>
+    <color name="grad_start_4">#6A11CB</color>
+    <color name="grad_end_4">#2575FC</color>
+    <color name="grad_start_5">#FF0844</color>
+    <color name="grad_end_5">#FFB199</color>
+</resources>
