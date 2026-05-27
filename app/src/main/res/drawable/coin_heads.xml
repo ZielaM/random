@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp" android:height="200dp" android:viewportWidth="200" android:viewportHeight="200">
+    <!-- Outer coin -->
+    <path android:fillColor="#FFD700" android:strokeColor="#B8860B" android:strokeWidth="10"
+        android:pathData="M 100,100 m -90,0 a 90,90 0 1,1 180,0 a 90,90 0 1,1 -180,0" />
+    <!-- Inner face detail -->
+    <path android:fillColor="#B8860B" android:pathData="M100,30 a70,70 0 1,0 0,140 a70,70 0 1,0 0,-140 z" />
+    <path android:fillColor="#FFD700"
+        android:pathData="M 100,100 m -60,0 a 60,60 0 1,1 120,0 a 60,60 0 1,1 -120,0" />
+    <!-- H letter -->
+    <path android:fillColor="#B8860B" android:pathData="M 80,60 v80 h15 v-35 h10 v35 h15 v-80 h-15 v30 h-10 v-30 z" />
+</vector>
