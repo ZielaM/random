@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Randomizer</string>
+    <string name="title_number">Losowa Liczba</string>
+    <string name="title_string">Losowe Słowo</string>
+    <string name="title_dice">Rzut Kośćmi</string>
+    <string name="title_coin">Rzut Monetą</string>
+    <string name="title_meme">Losowy Mem</string>
+    <string name="title_history">Historia</string>
+    <string name="title_settings">Ustawienia</string>
+
+    <string name="card_number">123\nLiczby</string>
+    <string name="card_string">ABC\nSłowa</string>
+    <string name="card_dice">🎲\nKości</string>
+    <string name="card_coin">🪙\nMoneta</string>
+    <string name="card_meme">🗿\nMemy</string>
+    <string name="card_history">📜\nHistoria</string>
+
+    <string name="label_min">Min</string>
+    <string name="label_max">Max</string>
+    <string name="btn_generate">Generuj</string>
+
+    <string name="hint_sentence">Wpisz zdanie...</string>
+    <string name="btn_add">Dodaj</string>
+    <string name="btn_draw">Losuj</string>
+
+    <string name="hint_count">Ilość (1-12)</string>
+    <string name="btn_roll">Rzuć</string>
+
+    <string name="label_ready">Gotowy?</string>
+    <string name="btn_flip">Rzuć Monetą</string>
+    <string name="coin_heads">Orzeł</string>
+    <string name="coin_tails">Reszka</string>
+
+    <string name="hint_api_key">Klucz APILeague API (opcjonalny)</string>
+    <string name="btn_fetch">Pobierz Mema</string>
+
+    <string name="action_clear">Wyczyść</string>
+
+    <string name="settings_language">Język</string>
+    <string name="settings_theme">Motyw</string>
+    <string name="theme_system">Domyślny systemu</string>
+    <string name="theme_light">Jasny</string>
+    <string name="theme_dark">Ciemny</string>
+    <string name="lang_system">Domyślny systemu</string>
+    <string name="lang_en">Angielski</string>
+    <string name="lang_pl">Polski</string>
+
+    <string name="error_required">Wymagane</string>
+    <string name="error_min_max">Min > Max</string>
+    <string name="error_invalid_num">Złe liczby</string>
+    <string name="error_enter_string">Wpisz tekst</string>
+    <string name="error_empty_list">Pusta lista</string>
+    <string name="error_enter_dice">Wpisz ilość kości</string>
+    <string name="error_dice_range">Musi być 1-12</string>
+    <string name="error_api_key_req">Klucz API może być wymagany</string>
+    <string name="msg_no_desc">Brak opisu</string>
+    <string name="msg_error">Błąd: </string>
+    <string name="msg_failed">Nieudane: </string>
+
+    <string name="dice_history_format">Wyrzucono %1$d kości: %2$s</string>
+    <string name="type_number">Liczba</string>
+    <string name="type_string">Słowo</string>
+    <string name="type_dice">Kości</string>
+    <string name="type_coin">Moneta</string>
+    <string name="type_meme">Mem</string>
+
+    <string name="settings_animations">Włącz Animacje</string>
+</resources>
